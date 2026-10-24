@@ -1,0 +1,1 @@
+GramTrack Front-End Prototype\n\nRun: Extract the ZIP and open index.html in a modern browser.\nThe background images change every 2 seconds. The login button opens three role choices.\nThis is a front-end prototype only; authentication and database are not connected yet.\n
